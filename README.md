@@ -89,7 +89,7 @@
 ---
 
 ## 8. Files
-- `bank_marketing_prediction.ipynb` : 전체 분석 및 모델링 코드
+- `code.ipynb` : 전체 분석 및 모델링 코드
 
 ---
 
